@@ -51,7 +51,16 @@ This project involves scraping NBA team statistics from Basketball Reference for
 
 This project demonstrates the power of SQL and Python for sports data analysis, showcasing how historical NBA stats can be leveraged to uncover trends and insights. By exploring shot distribution, efficiency metrics, and league averages, users can gain a deeper understanding of how team performance and strategies have evolved over time.
 
-Feel free to adapt and extend this project according to your needs, and explore additional metrics or analysis methods.
+Feel free to adapt and extend this project according to your needs, and explore additional metrics or analysis methods.y 
+
+## Visualization
+
+I have created an interactive visualization that illustrates the trends in NBA teams' reliance on three-point shooting and their efficiency over time (2010-2024). You can explore the data story on Tableau Public using the link below:
+
+[Explore the NBA Stats Visualization](https://public.tableau.com/views/NbaStats_17243274695210/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Feel free to dive into the visualizations and analyze how NBA gameplay has evolved, especially in terms of three-point efficiency.
+
 
 ## Contact
 
