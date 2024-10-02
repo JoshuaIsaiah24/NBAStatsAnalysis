@@ -53,3 +53,8 @@ For NBA teams and analysts:
 - **3-Point Focus**: Teams should continue to invest in improving 3-point shooting efficiency, both in player development and tactical play.
 - **Perimeter Defense**: As more teams prioritize 3-point shooting, defensive schemes should evolve to counter this trend by emphasizing strong perimeter defense.
 - **Ongoing Data Analysis**: Regularly analyzing shot distribution and efficiency metrics can help teams refine their strategies in response to evolving league trends.
+
+### Tableau Visualization
+
+Please see link of summary for the NBA Stats Analysis: https://public.tableau.com/views/NbaStats_17278608223740/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
